@@ -1,3 +1,2 @@
 # Deep learning-from-scratch
 
-##
